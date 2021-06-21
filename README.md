@@ -8,6 +8,9 @@ In the added notebook `tutorial.ipynb` you find two simple examples that illustr
 In the end you are encouraged, with what you've learnt, to further improve on the 2nd example: tuning the parameters of a passive Hodgkin-Huxley model in order to match the observation.
 <br>
 <br>
+Important note: models contain noise.
+<br>
+<br>
 ## What you need
 Everything is just Python code. It's all just one notebook. All the models are even run in Python itself. The only requirement you need is a basic understanding of simulator-based inference [sbi](https://www.mackelab.org/sbi/) and [install](https://www.mackelab.org/sbi/install/) it.
 <br>
